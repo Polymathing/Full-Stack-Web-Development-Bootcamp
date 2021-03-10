@@ -49,8 +49,8 @@
   * Mailchimp API
   * Created REST API from scratch
 * Heroku
-  * Newsletter site deployed to: https://polymathing.herokuapp.com/
-  * Todo List site deployed to: https://todolist-polymathing.herokuapp.com/
+  * Newsletter site deployed to: [Link](https://polymathing.herokuapp.com/)
+  * Todo List site deployed to: [Link](https://todolist-polymathing.herokuapp.com/)
 * EJS
 * Databases
   * SQL
@@ -80,13 +80,13 @@ Keeper |  Keeper Note Pop Up
 :-------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/19628705/70381921-d3607180-1907-11ea-94f1-48bb7702494e.png) | ![](https://user-images.githubusercontent.com/19628705/70381922-d65b6200-1907-11ea-82dc-8b30cd9cce21.png)
 
-_Have a look: https://45zey.csb.app/_
+_Have a look: [Link](https://45zey.csb.app/)_
 
 ### To-Do List w/ React Components, Hooks, States, Destructuring, Spread Operator
 
 ![Screen Shot 2019-12-07 at 3 37 14 PM](https://github.com/Polymathing/Full-Stack-Web-Development-Bootcamp/blob/main/Images/React/ToDo.png?raw=true)
 
-_Check it out here: https://sre1p.csb.app/_
+_Check it out here: [Link](https://sre1p.csb.app/)_
 
 ### Emojipedia w/ React Components & Props
 ![Screen Shot 2019-12-03 at 7 02 49 PM](https://user-images.githubusercontent.com/19628705/70109011-86c32080-15ff-11ea-91d1-bca52691f9c4.png)
