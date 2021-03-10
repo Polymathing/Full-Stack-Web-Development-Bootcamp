@@ -36,16 +36,16 @@ https://www.notion.so/Full-Stack-Web-Development-Bootcamp-fefd6c79986441629327c9
   * Mailchimp API
   * Created REST API from scratch
 * Heroku
-  • Newsletter site deployed to: https://polymathing.herokuapp.com/
-  • Todo List site deployed to: https://todolist-polymathing.herokuapp.com/
-• EJS
-• Databases
+  * Newsletter site deployed to: https://polymathing.herokuapp.com/
+  * Todo List site deployed to: https://todolist-polymathing.herokuapp.com/
+* EJS
+* Databases
   * SQL
   * MongoDB
-• Mongoose
-• MongoDB Atlas
-• Authentication & Security
-• React
+* Mongoose
+* MongoDB Atlas
+* Authentication & Security
+* React
   * Components
   * Props
   * Babel
