@@ -80,7 +80,7 @@ Keeper |  Keeper Note Pop Up
 :-------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/19628705/70381921-d3607180-1907-11ea-94f1-48bb7702494e.png) | ![](https://user-images.githubusercontent.com/19628705/70381922-d65b6200-1907-11ea-82dc-8b30cd9cce21.png)
 
-_🔗 [Have a look]((https://45zey.csb.app/)_
+_🔗 [Have a look](https://45zey.csb.app/)_
 
 ### To-Do List w/ React Components, Hooks, States, Destructuring, Spread Operator
 
@@ -101,25 +101,25 @@ _🔗 [Check it out](https://sre1p.csb.app/)_
 
 <img width="1425" alt="Screen Shot 2021-03-03 at 9 03 08 PM" src="https://github.com/Polymathing/Full-Stack-Web-Development-Bootcamp/blob/main/Images/ToDo.png?raw=true">
 
-_Check it out: https://todolist-polymathing.herokuapp.com/_
+_🔗 [Check it out](https://todolist-polymathing.herokuapp.com/)_
 
 ## Newsletter Signup Page (Node.js, Express.js, Mailchimp API, & Heroku)
 Newsletter Signup Page 
 :-------------------------:
 ![](https://github.com/Polymathing/Full-Stack-Web-Development-Bootcamp/blob/main/Images/NewsLetter.png?raw=true)
 
-_Check it out: https://polymathing.herokuapp.com/_
+_🔗 [Check it out](https://polymathing.herokuapp.com/)_
 
 ## Simon Game (jQuery & JavaScript)
 ![simongame](https://github.com/Polymathing/Full-Stack-Web-Development-Bootcamp/blob/main/Images/SimonGame.gif?raw=true)
 
-_Play it here: https://github.com/Polymathing/Simon-Game_
+_🎮 [Play it here](https://github.com/Polymathing/Simon-Game)_
 
 ## Drum Kit (Advanced JavaScript & DOM Manipulation)
 
 <img width="1438" alt="Screen Shot 2021-03-03 at 11 31 30 PM" src="https://github.com/Polymathing/Full-Stack-Web-Development-Bootcamp/blob/main/Images/Drumkit.png?raw=true">
 
-_Play it here: https://github.com/Polymathing/My-Drum-Kit_
+_🎮 [Play it here](https://github.com/Polymathing/My-Drum-Kit)_
 
 ## Dicee Challenge (Intro JavaScript & DOM)
 <img width="1440" alt="Screen Shot 2021-03-03 at 9 47 33 PM" src="https://github.com/Polymathing/Full-Stack-Web-Development-Bootcamp/blob/main/Images/Dicee.png?raw=true">
@@ -133,7 +133,7 @@ _Play it here: https://github.com/Polymathing/My-Drum-Kit_
 <img width="1426" alt="Screen Shot 2019-04-08 at 5 37 25 PM" src="https://user-images.githubusercontent.com/19628705/55765559-24d8f980-5a25-11e9-953a-f1aa971b6a68.png">
 <img width="1426" alt="Screen Shot 2019-04-08 at 5 37 31 PM" src="https://user-images.githubusercontent.com/19628705/55765562-260a2680-5a25-11e9-8d30-011a4ce50227.png">
 
-_Check it out: https://github.com/Polymathing/Bootstrap-Practice-Tindog_
+_🔗 [Check it out](https://github.com/Polymathing/Bootstrap-Practice-Tindog)_
 
 ### Front End | BackEnd
 <img width="1268" alt="Screen Shot 2019-03-25 at 3 35 26 PM" src="https://user-images.githubusercontent.com/19628705/55765442-95334b00-5a24-11e9-80f3-a514bf6ed30c.png">
