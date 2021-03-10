@@ -1,7 +1,7 @@
 # Full-Stack-Web-Development-Bootcamp
 
 ## My Journey
-For someone who was 100% focused on Python and other data science tools, everything was quite new. I had no previous experience to any kind of server-side JavaScript development like NodeJS or Express. I found this new technologies as enjoyable to develop in as with any tool in the data science realm. I like the balance that codes with NodeJS where you can easily see your routes and template files.
+For someone who was 100% focused on Python for data science application, everything was quite new. I had no previous experience to any kind of server-side JavaScript development like NodeJS or Express. I found this new technologies as enjoyable to develop in as with any tool in the data science realm. I like the balance that codes with NodeJS where you can easily see your routes and template files.
 
 Generally speaking, this course forced me to better understand the asynchronous nature of using callbacks in my NodeJS code in tandem with the other frameworks, such as React. This slowed my pace a little bit, but I feel like I've achieved much more with this extra practice.
 
