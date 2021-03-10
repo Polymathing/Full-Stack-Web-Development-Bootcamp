@@ -82,24 +82,29 @@ _Check it out here: https://sre1p.csb.app/_
 ![Screen Shot 2019-07-10 at 10 46 33 PM](https://user-images.githubusercontent.com/19628705/61025198-c2b1cc80-a364-11e9-8f07-8064781ee30d.png)
 
 ## To-Do List (EJS, Node.js, Express.js)
+_Check it out: https://todolist-polymathing.herokuapp.com/
 <img width="1425" alt="Screen Shot 2021-03-03 at 9 03 08 PM" src="https://github.com/Polymathing/Full-Stack-Web-Development-Bootcamp/blob/main/Images/ToDo.png?raw=true">
 
 ## Newsletter Signup Page (Node.js, Express.js, Mailchimp API, & Heroku)
-Newsletter Signup Page |  MailChimp Persistence
-:-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/19628705/59819145-877b2b00-92db-11e9-9fd1-3c7a59e33659.png) | ![](https://user-images.githubusercontent.com/19628705/59819146-877b2b00-92db-11e9-94a2-382ec1c9923a.png)
+Newsletter Signup Page 
+:-------------------------:
+![](https://github.com/Polymathing/Full-Stack-Web-Development-Bootcamp/blob/main/Images/NewsLetter.png?raw=true)
 
 ## Simon Game (jQuery & JavaScript)
-![simongame](https://user-images.githubusercontent.com/19628705/56182300-5a9e5500-5fc6-11e9-9014-a54a6e84fcdd.gif)
+_Play it here: https://github.com/Polymathing/Simon-Game_
+
+![simongame](https://github.com/Polymathing/Full-Stack-Web-Development-Bootcamp/blob/main/Images/SimonGame.gif?raw=true)
 
 ## Drum Kit (Advanced JavaScript & DOM Manipulation)
-<img width="1438" alt="Screen Shot 2019-04-13 at 11 31 30 PM" src="https://user-images.githubusercontent.com/19628705/56089199-7548c080-5e44-11e9-8beb-02396661f76b.png">
+_Play it here: https://github.com/Polymathing/My-Drum-Kit_
+
+<img width="1438" alt="Screen Shot 2021-03-03 at 11 31 30 PM" src="https://github.com/Polymathing/Full-Stack-Web-Development-Bootcamp/blob/main/Images/Drumkit.png?raw=true>
 
 
 ## Dicee Challenge (Intro JavaScript & DOM)
-<img width="1440" alt="Screen Shot 2019-04-13 at 9 47 33 PM" src="https://user-images.githubusercontent.com/19628705/56088444-d1f0af00-5e35-11e9-9ddd-4ca799481d2a.png">
+<img width="1440" alt="Screen Shot 2021-03-03 at 9 47 33 PM" src="https://github.com/Polymathing/Full-Stack-Web-Development-Bootcamp/blob/main/Images/Dicee.png?raw=true">
 
-## TinDog (Bootstrap 4)
+## TinDog (Bootstrap)
 <img width="1428" alt="Screen Shot 2019-04-08 at 5 36 51 PM" src="https://user-images.githubusercontent.com/19628705/55765544-1d195500-5a25-11e9-982e-b16fe09fe77b.png">
 <img width="1424" alt="Screen Shot 2019-04-08 at 5 37 02 PM" src="https://user-images.githubusercontent.com/19628705/55765550-21457280-5a25-11e9-91e4-0f604c7dbdc7.png">
 <img width="1426" alt="Screen Shot 2019-04-08 at 5 37 10 PM" src="https://user-images.githubusercontent.com/19628705/55765553-22769f80-5a25-11e9-8bd2-423d7464ed8f.png">
