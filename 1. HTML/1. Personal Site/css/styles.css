@@ -1,0 +1,17 @@
+body {
+    background-color: rgba(195, 212, 212, 0.692);
+}
+
+h1 {
+    color: #66BFBF
+}
+
+h3 {
+    color: #66BFBF;
+}
+hr {
+    color: darkgray;
+    border-style: dotted none none;
+    border-width: 6px;
+    width: 2%
+}
