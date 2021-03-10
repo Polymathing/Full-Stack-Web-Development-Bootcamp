@@ -101,7 +101,7 @@ _Play it here: https://github.com/Polymathing/Simon-Game_
 ## Drum Kit (Advanced JavaScript & DOM Manipulation)
 _Play it here: https://github.com/Polymathing/My-Drum-Kit_
 
-<img width="1438" alt="Screen Shot 2021-03-03 at 11 31 30 PM" src="https://github.com/Polymathing/Full-Stack-Web-Development-Bootcamp/blob/main/Images/Drumkit.png?raw=true>"
+<img width="1438" alt="Screen Shot 2021-03-03 at 11 31 30 PM" src="https://github.com/Polymathing/Full-Stack-Web-Development-Bootcamp/blob/main/Images/Drumkit.png?raw=true">
 
 
 ## Dicee Challenge (Intro JavaScript & DOM)
