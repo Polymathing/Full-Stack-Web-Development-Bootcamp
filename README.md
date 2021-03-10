@@ -4,14 +4,14 @@ https://www.notion.so/Full-Stack-Web-Development-Bootcamp-fefd6c79986441629327c9
 
 
 ## Main Topics Covered
-### 1. HTML
-### 2. CSS
-### 3. JavaScript
-### 4. Bootstrap
-### 5. DOM & DOM Manipulation
-### 6. jQuery
-### 7. Node.js
-  ** NPM **
+1. HTML
+2. CSS
+3. JavaScript
+4. Bootstrap
+5. DOM & DOM Manipulation
+6. jQuery
+7. Node.js
+  * NPM
     • express
     • ejs
     • body-parser
@@ -29,7 +29,7 @@ https://www.notion.so/Full-Stack-Web-Development-Bootcamp-fefd6c79986441629327c9
     • passport-google-path20
     • mongoose-findorcreate
     • express-session
- **Express.js**
+ *Express.js
 • API
   • JSON
   • Authentication
