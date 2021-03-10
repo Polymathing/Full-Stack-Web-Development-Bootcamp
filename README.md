@@ -1,6 +1,6 @@
 # Full-Stack-Web-Development-Bootcamp
 ## My Personal Notes on Notion
-https://www.notion.so/Full-Stack-Web-Development-Bootcamp-fefd6c79986441629327c9d6dab0d05f
+[Personal notes](https://www.notion.so/Full-Stack-Web-Development-Bootcamp-fefd6c79986441629327c9d6dab0d05f)
 
 ## 💡 Technologies
 
