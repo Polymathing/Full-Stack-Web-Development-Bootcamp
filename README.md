@@ -49,7 +49,7 @@
   * Mailchimp API
   * Created REST API from scratch
 * Heroku
-  * Newsletter site deployed to: [Link](https://polymathing.herokuapp.com/)
+  * Newsletter site deployed to: 🔗 [Link](https://polymathing.herokuapp.com/)
   * Todo List site deployed to: [Link](https://todolist-polymathing.herokuapp.com/)
 * EJS
 * Databases
