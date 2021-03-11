@@ -1,7 +1,7 @@
 # Full-Stack-Web-Development-Bootcamp
 
 ## My Journey
-When I started this program I was already studying HTML, CSS and JS, so everything was quite familiar at the very beginning. It started to get really interesting when Angela started approaching the frameworks I didn't know about. I had no previous experience to any kind of server-side JavaScript development like NodeJS or Express. I found these new technologies as enjoyable to develop in as with any other framework I had learned until then. As matter of fact, I really like the balance that codes with NodeJS where you can easily see your routes and template files.
+When I started this program I was already studying HTML, CSS and JS, so everything was quite familiar at the very beginning. It got really interesting when Angela started approaching the frameworks I didn't know about. I had no previous experience to any kind of server-side JavaScript development like NodeJS or Express. I found these new technologies as enjoyable to develop in as with any other framework I had learned until then. As matter of fact, I really like the balance that codes with NodeJS where you can easily see your routes and template files.
 
 In a nutshell, this course forced me to better understand the asynchronous nature of using callbacks in my NodeJS code in tandem with the other frameworks, such as React. This slowed my pace a little bit, but I feel like I've achieved much more with this extra practice.
 
